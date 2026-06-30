@@ -4,7 +4,7 @@
 ## 🚀 Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,git,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,git,python,vscode" />
 </p>
 
 ## 📫 Contato
